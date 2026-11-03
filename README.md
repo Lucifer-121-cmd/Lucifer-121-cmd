@@ -16,15 +16,6 @@ My work bridges three traditionally separate areas:
 
 ---
 
-## 📄 Publications & Submissions
-
-| Status | Title | Venue |
-|--------|-------|-------|
-| 🔄 Under review | *Analytic Gaussian CVaR‑MPC with Online α‑Adaptation for Real‑Time Safe Navigation among Dynamic Obstacles* | IEEE RA‑L |
-| 🔄 Under review | *EP²‑MPC: Energy‑Predictive Proximity‑Adaptive MPC with Dual‑LLM‑Guided NSGA‑II Evolution* | IEEE RA‑L |
-| 🧪 In experiment | *RISE‑MAPPO: Risk‑Sensitive Multi‑Agent RL with Lyapunov‑Stable MPC and Distributed GP Perception for Cooperative Robotic Search* | (TBD) |
-| ✍️ In progress | *Distributed‑GP‑Grounded VLM Semantic Risk Maps for Cooperative Hazardous Search* | (TBD) |
-
 
 ## 🧰 Technical Stack
 
@@ -37,21 +28,6 @@ My work bridges three traditionally separate areas:
 | **Foundation Models** | Qwen3‑VL, Qwen3.6, DeepSeek‑R1 (via Ollama) |
 | **Experimentation** | WandB, pytest, statistical rigor (Wilcoxon, Cliff's δ, Friedman‑Nemenyi) |
 
----
-
-## 📊 By the Numbers
-
-- 🔬 **3** active research projects (2 submitted to IEEE RA‑L)  
-- 🌱 **30+** seeds × 5 scenarios × 4 methods — my statistical floor per paper  
-- ⚡ **15×** MPC solve‑time speedup via analytic Gaussian CVaR (1778 → 128 NLP decision variables)  
-- 📚 Continuously reading: arXiv cs.RO, cs.LG, cs.SY
-
----
-
-## 🎯 Current Focus (2026)
-
-- 🚀 **Topic 4:** VLM‑GP‑CVaR — extending RISE‑MAPPO with Vision‑Language Model semantic perception and category‑conditioned CVaR‑MPC for cooperative hazardous search  
-- 📖 **Reading:** *"From Words to Safety"* (arXiv:2511.05889), *SafeVLA* (arXiv:2503.03480), *LLM‑MRS Survey* (arXiv:2502.03814)  
 
 ---
 
