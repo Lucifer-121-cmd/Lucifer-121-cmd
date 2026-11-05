@@ -25,7 +25,6 @@ My work bridges three traditionally separate areas:
 | **ML / RL** | PyTorch, MAPPO/PPO, NSGA‑II, GPyTorch (Gaussian Processes) |
 | **Control** | CasADi, IPOPT, Lyapunov‑based MPC, CVaR / Wasserstein DRO |
 | **Robotics** | ROS 2 Humble, Isaac Sim, TurtleBot3, Pioneer 3‑DX, (soon) Unitree X3 Stable |
-| **Foundation Models** | Qwen3‑VL, Qwen3.6, DeepSeek‑R1 (via Ollama) |
 | **Experimentation** | WandB, pytest, statistical rigor (Wilcoxon, Cliff's δ, Friedman‑Nemenyi) |
 
 
